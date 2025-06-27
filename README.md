@@ -28,13 +28,16 @@ This project participates in **8 different challenges** of the Bolt.new Hackatho
 ## 📸 Screenshots
 
 ### Homepage with AI-Powered Features
-![Homepage](https://images.pexels.com/photos/3401403/pexels-photo-3401403.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&dpr=1)
+![Homepage](https://github.com/github-pratik/Edulearn_Bolt/blob/main/1.jpg)
 
-### Video Player with Voice Summaries
-![Video Player](https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&dpr=1)
+### AI features
+![Video Player](https://github.com/github-pratik/Edulearn_Bolt/blob/main/5.jpg)
 
-### AI Tutor Chat Interface
-![AI Tutor](https://images.pexels.com/photos/3401403/pexels-photo-3401403.jpeg?auto=compress&cs=tinysrgb&w=1200&h=600&dpr=1)
+### User Dashboard
+![Dashboard](https://github.com/github-pratik/Edulearn_Bolt/blob/main/3.jpg)
+
+### Upload video page
+![AI Tutor](https://github.com/github-pratik/Edulearn_Bolt/blob/main/4.jpg)
 
 ## 🌟 Features
 
